@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="display.xsl"?>
+<?oxygen type="xml" RNGSchema="file:/Users/56k/Documents/Research/PERSEUS/materials/greek_historical_fragments/cvs/greek_historical_fragmentary_texts/TEI_P5_schemas/TEIP5_hist_frag_texts.rng"?>
+<TEI xmlns:TEI="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ATHENAEUS, Deipnosophistae</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Trustees of Tufts University</publisher>
+                <pubPlace>Medford, MA</pubPlace>
+                <authority>Perseus Project</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Athenaei Naucratitae Dipnosophistarum Libri xv. recensuit Kaibel Georgius. Vols.
+                    i. and ii. 1887; Vol. iii. 1890. Leipzig: Teubner.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">Latin</language>
+                <language ident="grc">Ancient Greek (grc-Grek-x-utf8)</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2008-11-24" who="#MR">
+                <name sameAs="#MR">Matteo Romanello</name> transformed &lt;div
+                @type='Kaibel_paragraph'&gt; into more semantic &lt;p&gt; elements, and &lt;l&gt;
+                elements as well were transformed into &lt;seg @type='line_kaibel_edition&gt;
+                elements. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:id="d1e68" n="1">
+        <body xml:id="d1e69" xml:lang="grc">
+            <head xml:id="d1e71" xml:lang="la">Deipnosophistae</head>
+            <p xml:id="d1e74"/>
+            <note place="inline" xml:id="d1e78" type="title">ΑΘΗΝΑΙΟΥ ΝΑΥΚΡΑΤΙΤΟΥ
+                ΔΕΙΠΝΟΣΟΦΙΣΤΩΝ</note>
+            <xi:include href="books/book_1.xml"
+                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//body/)" parse="xml"/>
+            <xi:include href="books/book_2.xml"
+                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//body/)" parse="xml"/>
+            <xi:include href="books/book_3.xml"
+                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//body/)" parse="xml"/>
+            <xi:include href="books/book_4.xml"
+                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//body/)" parse="xml"/>
+            <xi:include href="books/book_5.xml"
+                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//body/)" parse="xml"/>
+            <xi:include href="books/book_6.xml"
+                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//body/)" parse="xml"/>
+            <xi:include href="books/book_7.xml"
+                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//body/)" parse="xml"/>
+            <xi:include href="books/book_8.xml"
+                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//body/)" parse="xml"/>
+            <xi:include href="books/book_9.xml"
+                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//body/)" parse="xml"/>
+            <xi:include href="books/book_10.xml"
+                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//body/)" parse="xml"/>
+            <xi:include href="books/book_11.xml"
+                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//body/)" parse="xml"/>
+            <xi:include href="books/book_12.xml"
+                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//body/)" parse="xml"/>
+            <xi:include href="books/book_13.xml"
+                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//body/)" parse="xml"/>
+            <xi:include href="books/book_14.xml"
+                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//body/)" parse="xml"/>
+            <xi:include href="books/book_15.xml"
+                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//body/)" parse="xml"/>
+        </body>
+    </text>
+</TEI>
