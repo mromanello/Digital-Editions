@@ -38,36 +38,21 @@
             <p xml:id="d1e74"/>
             <note place="inline" xml:id="d1e78" type="title">ΑΘΗΝΑΙΟΥ ΝΑΥΚΡΑΤΙΤΟΥ
                 ΔΕΙΠΝΟΣΟΦΙΣΤΩΝ</note>
-            <xi:include href="books/book_1.xml"
-                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//tei:body/)" parse="xml"/>
-            <xi:include href="books/book_2.xml"
-                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//tei:body/)" parse="xml"/>
-            <xi:include href="books/book_3.xml"
-                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//tei:body/)" parse="xml"/>
-            <xi:include href="books/book_4.xml"
-                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//tei:body/)" parse="xml"/>
-            <xi:include href="books/book_5.xml"
-                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//tei:body/)" parse="xml"/>
-            <xi:include href="books/book_6.xml"
-                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//tei:body/)" parse="xml"/>
-            <xi:include href="books/book_7.xml"
-                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//tei:body/)" parse="xml"/>
-            <xi:include href="books/book_8.xml"
-                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//tei:body/)" parse="xml"/>
-            <xi:include href="books/book_9.xml"
-                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//tei:body/)" parse="xml"/>
-            <xi:include href="books/book_10.xml"
-                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//tei:body/)" parse="xml"/>
-            <xi:include href="books/book_11.xml"
-                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//tei:body/)" parse="xml"/>
-            <xi:include href="books/book_12.xml"
-                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//tei:body/)" parse="xml"/>
-            <xi:include href="books/book_13.xml"
-                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//tei:body/)" parse="xml"/>
-            <xi:include href="books/book_14.xml"
-                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//tei:body/)" parse="xml"/>
-            <xi:include href="books/book_15.xml"
-                xpointer="xmlns(tei=http://www.tei-c.org/ns/1.0)xpointer(//tei:body/)" parse="xml"/>
+            <xi:include href="books/book_1.xml" parse="xml"/>
+            <xi:include href="books/book_2.xml" parse="xml"/>
+            <xi:include href="books/book_3.xml" parse="xml"/>
+            <xi:include href="books/book_4.xml" parse="xml"/>
+            <xi:include href="books/book_5.xml" parse="xml"/>
+            <xi:include href="books/book_6.xml" parse="xml"/>
+            <xi:include href="books/book_7.xml" parse="xml"/>
+            <xi:include href="books/book_8.xml" parse="xml"/>
+            <xi:include href="books/book_9.xml" parse="xml"/>
+            <xi:include href="books/book_10.xml" parse="xml"/>
+            <xi:include href="books/book_11.xml" parse="xml"/>
+            <xi:include href="books/book_12.xml" parse="xml"/>
+            <xi:include href="books/book_13.xml" parse="xml"/>
+            <xi:include href="books/book_14.xml" parse="xml"/>
+            <xi:include href="books/book_15.xml" parse="xml"/>
         </body>
     </text>
 </TEI>

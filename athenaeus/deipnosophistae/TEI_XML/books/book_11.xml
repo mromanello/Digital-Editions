@@ -1,31 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xml" href="display.xsl"?>
-<?oxygen type="xml" RNGSchema="file:/Users/56k/Documents/Research/PERSEUS/materials/greek_historical_fragments/cvs/greek_historical_fragmentary_texts/TEI_P5_schemas/TEIP5_hist_frag_texts.rng"?>
-<TEI xmlns:TEI="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>ATHENAEUS, Deipnosophistae, Book XI</title>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Trustees of Tufts University</publisher>
-                <pubPlace>Medford, MA</pubPlace>
-                <authority>Perseus Project</authority>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Athenaei Naucratitae Dipnosophistarum Libri xv. recensuit Kaibel Georgius. Vols. i. and ii. 1887; Vol. iii. 1890. Leipzig: Teubner.</p>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <langUsage>
-                <language ident="la">Latin</language>
-                <language ident="grc">Ancient Greek (grc-Grek-x-utf8)</language>
-            </langUsage>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:id="d1e78817" type="Book" n="11">
+<div xml:id="d1e78817" type="Book" n="11">
                 <p xml:id="d1e78819" n="1">
                     <seg xml:id="d1e78821" n="1" type="line_kaibel_edition" rend="indentation_2">Ἄγε
                         δή, τίς ἀρχὴ τῶν λόγων γενήσεται;</seg>
@@ -7320,6 +7293,3 @@
                         γενομένων.</seg>
                 </p>
             </div>
-        </body>
-    </text>
-</TEI>
